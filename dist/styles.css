@@ -1,0 +1,14 @@
+body {
+  background-image: white;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-family: "Roboto"; }
+
+@font-face {
+  font-family: "Roboto";
+  src: url(5673da52c98bb6cb33ada5aaf649703e.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+
+/*# sourceMappingURL=styles.css.map*/
